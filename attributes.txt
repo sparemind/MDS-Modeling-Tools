@@ -1,0 +1,21 @@
+# More information on the available attributes can be found at:
+# https://collegescorecard.ed.gov/assets/FullDataDocumentation.pdf
+# The first attribute must be the name, all others must specify numerical data
+INSTNM      # Institution name
+UGDS        # Number of undergraduate students
+ADM_RATE    # Admission rate (for individual campus)
+SATVRMID    # Median SAT reading score
+SATMTMID    # Median SAT math score
+SATWRMID    # Median SAT writing score
+#ACTENMID    # Median ACT English score
+#ACTMTMID    # Median ACT math score
+#ACTWRMID    # Median ACT writing score
+COSTT4_A    # Average annual attendance cost (all expenses included) for academic year
+UGDS_MEN    # Percent of men
+UGDS_WOMEN  # Percent of women
+C100_4      # Percentage who complete 4 year institution in 100% of expected time
+C150_4      # Percentage who complete 4 year institution in 150% of expected time
+#RET_FT4     # Percentage of full time students retained after 4 years
+#RET_PT4     # Percentage of part time students retained after 4 years
+UG25ABV     # Percentage of undergraduates age 25 or older
+#MD_EARN_WNE_P6
